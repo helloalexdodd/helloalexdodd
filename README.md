@@ -22,21 +22,21 @@
 
 ## Languages and Tools:
 
-<img width="26px" height="36.5px" align="left" src="./icons/html5.svg" alt="HTML5">
-<img width="26px" height="36.5px" align="left" src="./icons/css3.svg" alt="CSS3">
-<img width="26px" height="36.5px" align="left" src="./icons/sass.svg" alt="SCSS">
-<img width="26px" height="36.5px" align="left" src="./icons/js.svg" alt="JavaScript">
-<img width="26px" height="36.5px" align="left" src="./icons/react.svg" alt="React.js">
-<img width="26px" height="36.5px" align="left" src="./icons/nextjs.svg" alt="Next.js">
-<img width="26px" height="36.5px" align="left" src="./icons/vuejs.svg" alt="Vue.js">
-<img width="46px" height="36.5px" align="left" src="./icons/jquery.svg" alt="jQuery">
-<img width="46px" height="36.5px" align="left" src="./icons/node.svg" alt="Node.js">
-<img width="46px" height="36.5px" align="left" src="./icons/mongodb.svg" alt="MongoDB">
-<img width="26px" height="36.5px" align="left" src="./icons/graphql.svg" alt="GraphQL">
-<img width="46px" height="36.5px" align="left" src="./icons/apollo.svg" alt="Apollo">
-<img width="26px" height="36.5px" align="left" src="./icons/ruby.svg" alt="Ruby">
-<img width="46px" height="36.5px" align="left" src="./icons/rails.svg" alt="Rails">
-<img width="26px" height="36.5px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code">
+<img width="26px" height="36.5px" align="left" src="./icons/html5.svg" alt="HTML5" title="HTML5">
+<img width="26px" height="36.5px" align="left" src="./icons/css3.svg" alt="CSS3" title="CSS3">
+<img width="26px" height="36.5px" align="left" src="./icons/sass.svg" alt="SCSS" title="SCSS">
+<img width="26px" height="36.5px" align="left" src="./icons/js.svg" alt="JavaScript" title="JavaScript">
+<img width="26px" height="36.5px" align="left" src="./icons/react.svg" alt="React.js" title="React.js">
+<img width="26px" height="36.5px" align="left" src="./icons/nextjs.svg" alt="Next.js" title="Next.js">
+<img width="26px" height="36.5px" align="left" src="./icons/vuejs.svg" alt="Vue.js" title="Vue.js">
+<img width="46px" height="36.5px" align="left" src="./icons/jquery.svg" alt="jQuery" title="jQuery">
+<img width="46px" height="36.5px" align="left" src="./icons/node.svg" alt="Node.js" title="">
+<img width="46px" height="36.5px" align="left" src="./icons/mongodb.svg" alt="MongoDB" title="MongoDB">
+<img width="26px" height="36.5px" align="left" src="./icons/graphql.svg" alt="GraphQL" title="GraphQL">
+<img width="46px" height="36.5px" align="left" src="./icons/apollo.svg" alt="Apollo" title="Apollo">
+<img width="26px" height="36.5px" align="left" src="./icons/ruby.svg" alt="Ruby" title="Ruby">
+<img width="46px" height="36.5px" align="left" src="./icons/rails.svg" alt="Rails" title="Rails">
+<img width="26px" height="36.5px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code">
 
 <br />
 
