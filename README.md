@@ -46,8 +46,8 @@
 
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=helloalexdodd&count_private=true&show_icons=true&hide=stars,issues&hide_border=true" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloalexdodd&langs_count=5&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=helloalexdodd&count_private=true&show_icons=true&hide=stars,issues" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloalexdodd&langs_count=5" />
   </div>
 </div>
 
