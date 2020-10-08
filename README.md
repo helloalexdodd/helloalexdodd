@@ -11,7 +11,6 @@
 - ⚡ Loves include Vue.js, , Fruit based desserts,
 
 <br />
-<hr/>
 
 ### Connect with me:
 
@@ -20,7 +19,6 @@
 [<img align="left" alt="Alex Dodd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
-<hr/>
 
 ## Languages and Tools:
 
@@ -41,7 +39,6 @@
 <img width="26px" height="36.5px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code">
 
 <br />
-<hr />
 
 ## Github Stats:
 
