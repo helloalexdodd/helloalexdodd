@@ -39,7 +39,7 @@
 <img width="45px" height="45px" align="left" src="./icons/terminal.svg" alt="terminal">
 <img width="45px" height="45px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code">
 
-<br />
+<hr />
 
 ## Github Stats:
 
