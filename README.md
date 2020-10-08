@@ -2,7 +2,7 @@
 
 ### Hi! My name is [Alex][website]!
 
-## I'm a Full Stack Developer👨🏻‍💻 Instructor👨🏻‍🏫 Musician👨🏻‍🎤 and Dog Dad🐕
+## I'm a - Full Stack Developer👨🏻‍💻 Instructor👨🏻‍🏫 Musician👨🏻‍🎤 and Dog Dad🐕
 
 - 🚧 Right now I'm working on a small [Expense Tracker](https://github.com/helloalexdodd/full-stack-expense-tracker) app.
 - 🌱 I’m currently learning [Ruby and Ruby on Rails](https://github.com/helloalexdodd/hello-alex-blog) 💎
