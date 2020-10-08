@@ -17,3 +17,5 @@
 ## Github Stats:
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=helloalexdodd&count_private=true&show_icons=true&high_border=true)](https://github.com/helloalexdodd/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloalexdodd&langs_count=5)](https://github.com/helloalexdodd/github-readme-stats)
