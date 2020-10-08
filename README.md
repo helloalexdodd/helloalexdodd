@@ -29,13 +29,16 @@
 <img width="26px" height="36.5px" align="left" src="./icons/react.svg" alt="React.js">
 <img width="26px" height="36.5px" align="left" src="./icons/nextjs.svg" alt="Next.js">
 <img width="26px" height="36.5px" align="left" src="./icons/vuejs.svg" alt="Vue.js">
-<img width="36px" height="36.5px" align="left" src="./icons/jquery.svg" alt="jQuery">
-<img width="36px" height="36.5px" align="left" src="./icons/node.svg" alt="Node.js">
-<img width="36px" height="36.5px" align="left" src="./icons/mongodb.svg" alt="MongoDB">
+<img width="46px" height="36.5px" align="left" src="./icons/jquery.svg" alt="jQuery">
+<img width="46px" height="36.5px" align="left" src="./icons/node.svg" alt="Node.js">
+<img width="46px" height="36.5px" align="left" src="./icons/mongodb.svg" alt="MongoDB">
 <img width="26px" height="36.5px" align="left" src="./icons/graphql.svg" alt="GraphQL">
-<img width="36px" height="36.5px" align="left" src="./icons/apollo.svg" alt="Apollo">
+<img width="46px" height="36.5px" align="left" src="./icons/apollo.svg" alt="Apollo">
 <img width="26px" height="36.5px" align="left" src="./icons/ruby.svg" alt="Ruby">
-<img width="36px" height="36.5px" align="left" src="./icons/rails.svg" alt="Rails">
+<img width="46px" height="36.5px" align="left" src="./icons/rails.svg" alt="Rails">
+<img width="26px" height="36.5px" align="left" src="./icons/git.svg" alt="git">
+<img width="26px" height="36.5px" align="left" src="./icons/github.svg" alt="GitHub">
+<img width="26px" height="36.5px" align="left" src="./icons/terminal.svg" alt="terminal">
 <img width="26px" height="36.5px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code">
 
 <br />
