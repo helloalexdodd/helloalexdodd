@@ -1,3 +1,5 @@
+<link href="/styles/style.css" rel="stylesheet"></link>
+
 ### Hi! My name is [Alex][website]!
 
 ## I'm a Full Stack Developer 👨🏻‍💻, Instructor 👨🏻‍🏫, Musician 👨🏻‍🎤 and Dog Dad 🐕!
@@ -20,26 +22,28 @@
 
 ## Languages and Tools:
 
-<img width="45px" height="45px" align="left" src="./icons/html5.svg" alt="HTML5">
-<img width="45px" height="45px" align="left" src="./icons/css3.svg" alt="CSS3">
-<img width="45px" height="45px" align="left" src="./icons/sass.svg" alt="SCSS">
-<img width="45px" height="45px" align="left" src="./icons/js.svg" alt="JavaScript">
-<img width="45px" height="45px" align="left" src="./icons/react.svg" alt="React.js">
-<img width="45px" height="45px" align="left" src="./icons/nextjs.svg" alt="Next.js">
-<img width="45px" height="45px" align="left" src="./icons/vuejs.svg" alt="Vue.js">
-<img width="55px" height="55px" align="left" src="./icons/jquery.svg" alt="jQuery">
-<img width="45px" height="45px" align="left" src="./icons/node.svg" alt="Node.js">
-<img width="55px" height="55px" align="left" src="./icons/mongodb.svg" alt="MongoDB">
-<img width="45px" height="45px" align="left" src="./icons/graphql.svg" alt="GraphQL">
-<img width="55px" height="55px" align="left" src="./icons/apollo.svg" alt="Apollo">
-<img width="45px" height="45px" align="left" src="./icons/ruby.svg" alt="Ruby">
-<img width="55px" height="55px" align="left" src="./icons/rails.svg" alt="Rails">
-<img width="35px" height="35px" style="margin: 10px 10px 0;" align="left" src="./icons/git.svg" alt="git">
-<img width="45px" height="45px" align="left" src="./icons/github.svg" alt="GitHub">
-<img width="45px" height="45px" align="left" src="./icons/terminal.svg" alt="terminal">
-<img width="45px" height="45px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code">
+<div class="flex-container">
+  <img width="45px" height="45px" align="left" src="./icons/html5.svg" alt="HTML5">
+  <img width="45px" height="45px" align="left" src="./icons/css3.svg" alt="CSS3">
+  <img width="45px" height="45px" align="left" src="./icons/sass.svg" alt="SCSS">
+  <img width="45px" height="45px" align="left" src="./icons/js.svg" alt="JavaScript">
+  <img width="45px" height="45px" align="left" src="./icons/react.svg" alt="React.js">
+  <img width="45px" height="45px" align="left" src="./icons/nextjs.svg" alt="Next.js">
+  <img width="45px" height="45px" align="left" src="./icons/vuejs.svg" alt="Vue.js">
+  <img width="55px" height="55px" align="left" src="./icons/jquery.svg" alt="jQuery">
+  <img width="45px" height="45px" align="left" src="./icons/node.svg" alt="Node.js">
+  <img width="55px" height="55px" align="left" src="./icons/mongodb.svg" alt="MongoDB">
+  <img width="45px" height="45px" align="left" src="./icons/graphql.svg" alt="GraphQL">
+  <img width="55px" height="55px" align="left" src="./icons/apollo.svg" alt="Apollo">
+  <img width="45px" height="45px" align="left" src="./icons/ruby.svg" alt="Ruby">
+  <img width="55px" height="55px" align="left" src="./icons/rails.svg" alt="Rails">
+  <img width="35px" height="35px" style="margin: 10px 10px 0;" align="left" src="./icons/git.svg" alt="git">
+  <img width="45px" height="45px" align="left" src="./icons/github.svg" alt="GitHub">
+  <img width="45px" height="45px" align="left" src="./icons/terminal.svg" alt="terminal">
+  <img width="45px" height="45px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code">
+</div>
 
-<div></div>
+<br />
 
 ## Github Stats:
 
