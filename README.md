@@ -38,6 +38,7 @@
 <img width="46px" height="36.5px" align="left" src="./icons/rails.svg" alt="Rails" title="Rails">
 <img width="26px" height="36.5px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code">
 
+<br />
 <hr />
 
 ## Github Stats:
