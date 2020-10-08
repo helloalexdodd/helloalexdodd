@@ -45,7 +45,7 @@
 ## Github Stats:
 
 <div align="center">
-  <div style="display: flex; ">
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=helloalexdodd&count_private=true&show_icons=true" style="vertical-align: top;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloalexdodd&langs_count=7&layout=compact" />
   </div>
