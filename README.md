@@ -25,7 +25,7 @@
 <img width="26px" height="26px" align="left" src="./icons/sass.svg" alt="SCSS">
 <img width="26px" height="26px" align="left" src="./icons/js.svg" alt="JavaScript">
 <img width="26px" height="26px" align="left" src="./icons/react.svg" alt="React.js">
-<img width="26px" height="26px" align="left" src="./icons/next.svg" alt="Next.js">
+<img width="26px" height="26px" align="left" src="./icons/nextjs.svg" alt="Next.js">
 <img width="26px" height="26px" align="left" src="./icons/vuejs.svg" alt="Vue.js">
 <img width="26px" height="26px" align="left" src="./icons/node.svg" alt="Node.js">
 <img width="26px" height="26px" align="left" src="./icons/mongodb.svg" alt="MongoDB">
@@ -38,7 +38,7 @@
 <img width="26px" height="26px" align="left" src="./icons/terminal.svg" alt="terminal">
 <img width="26px" height="26px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code">
 
----
+<br />
 
 ## Github Stats:
 
