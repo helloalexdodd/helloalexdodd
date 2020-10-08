@@ -20,6 +20,8 @@
 
 <br />
 
+###
+
 ## Languages and Tools:
 
 <img width="26px" height="36.5px" align="left" src="./icons/html5.svg" alt="HTML5" title="HTML5">
@@ -39,6 +41,8 @@
 <img width="26px" height="36.5px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code">
 
 <br />
+
+###
 
 ## Github Stats:
 
