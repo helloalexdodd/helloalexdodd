@@ -21,33 +21,36 @@
 ## Languages and Tools:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/html5.svg" alt="HTML5">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/css3.svg" alt="CSS3">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/sass.svg" alt="SCSS">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/js.svg" alt="JavaScript">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/react.svg" alt="React.js">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/nextjs.svg" alt="Next.js">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/vuejs.svg" alt="Vue.js">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/jquery.svg" alt="jQuery">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/node.svg" alt="Node.js">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/mongodb.svg" alt="MongoDB">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/graphql.svg" alt="HTML5">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/apollo.svg" alt="HTML5">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/ruby.svg" alt="HTML5">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/rails.svg" alt="HTML5">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/git.svg" alt="git">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/github.svg" alt="GitHub">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/terminal.svg" alt="terminal">
-  <img width="45px" height="45px" align="left" margin="10px" src="./icons/visual-studio-code.svg" alt="Visual Studio Code">
+  <img width="45px" height="45px" src="./icons/html5.svg" alt="HTML5">
+  <img width="45px" height="45px" src="./icons/css3.svg" alt="CSS3">
+  <img width="45px" height="45px" src="./icons/sass.svg" alt="SCSS">
+  <img width="45px" height="45px" src="./icons/js.svg" alt="JavaScript">
+  <img width="45px" height="45px" src="./icons/react.svg" alt="React.js">
+  <img width="45px" height="45px" src="./icons/nextjs.svg" alt="Next.js">
+  <img width="45px" height="45px" src="./icons/vuejs.svg" alt="Vue.js">
+  <img width="45px" height="45px" src="./icons/jquery.svg" alt="jQuery">
+  <img width="45px" height="45px" src="./icons/node.svg" alt="Node.js">
+  <img width="45px" height="45px" src="./icons/mongodb.svg" alt="MongoDB">
+  <img width="45px" height="45px" src="./icons/graphql.svg" alt="HTML5">
+  <img width="45px" height="45px" src="./icons/apollo.svg" alt="HTML5">
+  <img width="45px" height="45px" src="./icons/ruby.svg" alt="HTML5">
+  <img width="45px" height="45px" src="./icons/rails.svg" alt="HTML5">
+  <img width="45px" height="45px" src="./icons/git.svg" alt="git">
+  <img width="45px" height="45px" src="./icons/github.svg" alt="GitHub">
+  <img width="45px" height="45px" src="./icons/terminal.svg" alt="terminal">
+  <img width="45px" height="45px" src="./icons/visual-studio-code.svg" alt="Visual Studio Code">
 </div>
 
 <br />
 
 ## Github Stats:
 
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=helloalexdodd&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/helloalexdodd/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloalexdodd&langs_count=5&layout=compact)](https://github.com/helloalexdodd/github-readme-stats)
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=helloalexdodd&count_private=true&show_icons=true&hide=stars,issues" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloalexdodd&langs_count=5&layout=compact" />
+  </div>
+</div>
 
 [website]: https://alexdodd.ca
 [linkedin]: https://linkedin.com/in/helloalexdodd
