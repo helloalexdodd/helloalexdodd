@@ -42,7 +42,7 @@
 
 ## Github Stats:
 
-[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=helloalexdodd&count_private=true&show_icons=true&hide=stars,issues&theme=vue)](https://github.com/helloalexdodd/github-readme-stats)
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=helloalexdodd&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/helloalexdodd/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloalexdodd&langs_count=5&layout=compact)](https://github.com/helloalexdodd/github-readme-stats)
 
