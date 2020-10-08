@@ -23,60 +23,22 @@
 ## Languages and Tools:
 
 <div class="flex-container">
-  <div>
-    <img width="45px" height="45px" align="left" src="./icons/html5.svg" alt="HTML5">
-  </div>
-  <div>
-    <img width="45px" height="45px" align="left" src="./icons/css3.svg" alt="CSS3">
-  </div>
-  <div>
-    <img width="45px" height="45px" align="left" src="./icons/sass.svg" alt="SCSS">
-  </div>
-  <div>
-    <img width="45px" height="45px" align="left" src="./icons/js.svg" alt="JavaScript">
-  </div>
-  <div>
-    <img width="45px" height="45px" align="left" src="./icons/react.svg" alt="React.js">
-  </div>
-  <div>
-    <img width="45px" height="45px" align="left" src="./icons/nextjs.svg" alt="Next.js">
-  </div>
-  <div>
-    <img width="45px" height="45px" align="left" src="./icons/vuejs.svg" alt="Vue.js">
-  </div>
-  <div>
-    <img width="55px" height="55px" align="left" src="./icons/jquery.svg" alt="jQuery">
-  </div>
-  <div>
-    <img width="45px" height="45px" align="left" src="./icons/node.svg" alt="Node.js">
-  </div>
-  <div>
-    <img width="55px" height="55px" align="left" src="./icons/mongodb.svg" alt="MongoDB">
-  </div>
-  <div>
-    <img width="45px" height="45px" align="left" src="./icons/graphql.svg" alt="GraphQL">
-  </div>
-  <div>
-    <img width="55px" height="55px" align="left" src="./icons/apollo.svg" alt="Apollo">
-  </div>
-  <div>
-    <img width="45px" height="45px" align="left" src="./icons/ruby.svg" alt="Ruby">
-  </div>
-  <div>
-    <img width="55px" height="55px" align="left" src="./icons/rails.svg" alt="Rails">
-  </div>
-  <div>
-    <img width="35px" height="35px" style="margin: 10px 10px 0;" align="left" src="./icons/git.svg" alt="git">
-  </div>
-  <div>
-    <img width="45px" height="45px" align="left" src="./icons/github.svg" alt="GitHub">
-  </div>
-  <div>
-    <img width="45px" height="45px" align="left" src="./icons/terminal.svg" alt="terminal">
-  </div>
-  <div>
-    <img width="45px" height="45px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code">
-  </div>
+  <img width="26px" align="left" src="./icons/html5.svg" alt="HTML5">
+  <img width="26px" align="left" src="./icons/css3.svg" alt="CSS3">
+  <img width="26px" align="left" src="./icons/sass.svg" alt="SCSS">
+  <img width="26px" align="left" src="./icons/js.svg" alt="JavaScript">
+  <img width="26px" align="left" src="./icons/react.svg" alt="React.js">
+  <img width="26px" align="left" src="./icons/nextjs.svg" alt="Next.js">
+  <img width="26px" align="left" src="./icons/vuejs.svg" alt="Vue.js">
+  <img width="26px" align="left" src="./icons/jquery.svg" alt="jQuery">
+  <img width="26px" align="left" src="./icons/node.svg" alt="Node.js">
+  <img width="26px" align="left" src="./icons/mongodb.svg" alt="MongoDB">
+  <img width="26px" align="left" src="./icons/graphql.svg" alt="GraphQL">
+  <img width="26px" align="left" src="./icons/apollo.svg" alt="Apollo">
+  <img width="26px" align="left" src="./icons/ruby.svg" alt="Ruby">
+  <img width="26px" align="left" src="./icons/rails.svg" alt="Rails">
+  <img width="26px" align="left" src="./icons/git.svg" alt="git">
+  <img width="26px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code">
 </div>
 
 <br />
