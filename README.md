@@ -11,6 +11,7 @@
 - ⚡ Loves include Vue.js, , Fruit based desserts,
 
 <br />
+<br />
 
 ### Connect with me:
 
@@ -18,6 +19,7 @@
 [<img align="left" alt="Alex Dodd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Alex Dodd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+<br />
 <br />
 
 ###
@@ -40,6 +42,7 @@
 <img width="46px" height="36.5px" align="left" src="./icons/rails.svg" alt="Rails" title="Rails">
 <img width="26px" height="36.5px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code">
 
+<br />
 <br />
 
 ###
