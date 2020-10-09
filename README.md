@@ -2,6 +2,12 @@
 
 ### Hi! My name is [Alex][website]!
 
+Try plugging this command into your terminal to get to know me better!
+
+```
+npx helloalexdodd
+```
+
 ## I'm a - Web Developer👨🏻‍💻 Instructor👨🏻‍🏫 Musician👨🏻‍🎤 and Dog Dad🐕
 
 - 🚧 Right now I'm working on a small [Expense Tracker](https://github.com/helloalexdodd/full-stack-expense-tracker) app.
