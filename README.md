@@ -1,5 +1,3 @@
-<link href="/styles/style.css" rel="stylesheet"></link>
-
 ### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is [Alex][website]!
 
 [![Twitter: helloalexdodd](https://img.shields.io/twitter/follow/helloalexdodd?style=social)](https://twitter.com/helloalexdodd)
@@ -25,8 +23,8 @@ npx helloalexdodd
 
 ## Languages and Tools:
 
-<div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center;">
+<div align="center" width="100%">
+  <div style="display: flex; flex-direction: column; align-items: center;" width="100%">
     <img width="26px" height="36.5px" align="left" src="./icons/html5.svg" alt="HTML5" title="HTML5">
     <img width="26px" height="36.5px" align="left" src="./icons/css3.svg" alt="CSS3" title="CSS3">
     <img width="26px" height="36.5px" align="left" src="./icons/sass.svg" alt="SCSS" title="SCSS">
