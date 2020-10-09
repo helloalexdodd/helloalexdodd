@@ -1,6 +1,6 @@
 <link href="/styles/style.css" rel="stylesheet"></link>
 
-### Hi! My name is [Alex][website]!
+### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is [Alex][website]!
 
 [![Twitter: helloalexdodd](https://img.shields.io/twitter/follow/helloalexdodd?style=social)](https://twitter.com/helloalexdodd)
 [![Linkedin: helloalexdodd](https://img.shields.io/badge/-helloalexdodd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helloalexdodd/)](https://www.linkedin.com/in/helloalexdodd/)
