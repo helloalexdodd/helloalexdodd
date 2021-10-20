@@ -12,13 +12,7 @@ npx helloalexdodd
 
 <hr />
 
-## I'm a 👨🏻‍💻 Web Developer, 👨🏻‍🏫 Instructor, 👨🏻‍🎤 Musician, and 🐕 Dog Dad
-
-- 🚧 Right now I'm working on a small [Expense Tracker](https://github.com/helloalexdodd/full-stack-expense-tracker) app using Vue.js, Node, and MongoDB.
-- 🌱 I’m currently learning [Ruby and Ruby on Rails](https://github.com/helloalexdodd/hello-alex-blog) 💎
-- 👨🏻‍💼 I am employed at [BIMM](https://bimm.com/) working on the [Audi](https://www.audi.ca/ca/web/en/new-cars.html) Team
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ❤️ Loves include Vue.js, sun showers, fruit based desserts, and video games
+## I'm a 👨🏻‍💻 Web Developer, 👨🏻‍🏫 Instructor, 👨🏻‍🎤 Musician, and 🐕 Dog Dad currently employed at 📚[Bibliocommons](https://www.bibliocommons.com/)
 
 <br />
 
