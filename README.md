@@ -12,7 +12,7 @@ npx helloalexdodd
 
 <hr />
 
-### I'm a 👨🏻‍💻 Web Developer, 👨🏻‍🏫 Instructor, 👨🏻‍🎤 Musician, and 🐕 Dog Dad currently employed at 📚[Bibliocommons](https://www.bibliocommons.com/)
+### I'm a 👨🏻‍💻 Web Developer, 👨🏻‍🏫 Instructor, 👨🏻‍🎤 Musician, and 🐕 Dog Dad currently employed at 📚[Wealthsimple](https://www.wealthsimple.com/en-ca)
 
 <br />
 
