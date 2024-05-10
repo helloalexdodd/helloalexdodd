@@ -3,12 +3,6 @@
 [![Linkedin: helloalexdodd](https://img.shields.io/badge/-helloalexdodd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helloalexdodd/)](https://www.linkedin.com/in/helloalexdodd/)
 [![GitHub helloalexdodd](https://img.shields.io/github/followers/helloalexdodd?label=follow&style=social)](https://github.com/helloalexdodd)
 
-Try plugging this command into your terminal to get to know me better!
-
-```
-npx helloalexdodd
-```
-
 <hr />
 
 ### I'm a 👨🏻‍💻 Web Developer, 👨🏻‍🏫 Instructor, 👨🏻‍🎤 Musician, and 🐕 Dog Dad currently employed at 📚[Wealthsimple](https://www.wealthsimple.com/en-ca)
