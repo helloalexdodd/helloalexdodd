@@ -5,7 +5,7 @@
 
 <hr />
 
-### I'm a 👨🏻‍💻 Web Developer, 👨🏻‍🏫 Instructor, 👨🏻‍🎤 Musician, and 🐕 Dog Dad currently employed at 📚[Wealthsimple](https://www.wealthsimple.com/en-ca)
+### I'm a 👨🏻‍💻 Web Developer, 👨🏻‍🏫 Instructor, 👨🏻‍🎤 Musician, and ♟️ Chess Player, currently employed at 📚[Wealthsimple](https://www.wealthsimple.com/en-ca)
 
 <br />
 
