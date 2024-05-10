@@ -39,6 +39,4 @@
   </div>
 </div>
 
-[website]: https://alexdodd.ca
 [linkedin]: https://linkedin.com/in/helloalexdodd
-[twitter]: https://twitter.com/helloalexdodd
