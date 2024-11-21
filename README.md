@@ -5,7 +5,7 @@
 
 <hr />
 
-### I'm a 👨🏻‍💻 Web Developer, 👨🏻‍🏫 Instructor, 👨🏻‍🎤 Musician, and ♟️ Chess Player, currently employed at 📚[Jobber](https://getjobber.com/)
+### I'm a 👨🏻‍💻 Software Engineer, 👨🏻‍🎤 Musician, 🐈‍⬛🐈 Cat Dad, and ♟️ Chess Player, currently employed at 📚[Jobber](https://getjobber.com/)
 
 <br />
 
