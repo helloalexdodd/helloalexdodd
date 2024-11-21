@@ -5,7 +5,7 @@
 
 <hr />
 
-### I'm a 👨🏻‍💻 Web Developer, 👨🏻‍🏫 Instructor, 👨🏻‍🎤 Musician, and ♟️ Chess Player, currently employed at 📚[Wealthsimple](https://www.wealthsimple.com/en-ca)
+### I'm a 👨🏻‍💻 Web Developer, 👨🏻‍🏫 Instructor, 👨🏻‍🎤 Musician, and ♟️ Chess Player, currently employed at 📚[Jobber](https://getjobber.com/)
 
 <br />
 
@@ -16,15 +16,15 @@
 <img width="26px" height="36.5px" align="left" src="./icons/sass.svg" alt="SCSS" title="SCSS">
 <img width="26px" height="36.5px" align="left" src="./icons/js.svg" alt="JavaScript" title="JavaScript">
 <img width="26px" height="36.5px" align="left" src="./icons/react.svg" alt="React.js" title="React.js">
-<img width="26px" height="36.5px" align="left" src="./icons/nextjs.svg" alt="Next.js" title="Next.js">
-<img width="26px" height="36.5px" align="left" src="./icons/vuejs.svg" alt="Vue.js" title="Vue.js">
-<img width="46px" height="36.5px" align="left" src="./icons/jquery.svg" alt="jQuery" title="jQuery">
-<img width="46px" height="36.5px" align="left" src="./icons/node.svg" alt="Node.js" title="">
-<img width="46px" height="36.5px" align="left" src="./icons/mongodb.svg" alt="MongoDB" title="MongoDB">
 <img width="26px" height="36.5px" align="left" src="./icons/graphql.svg" alt="GraphQL" title="GraphQL">
 <img width="46px" height="36.5px" align="left" src="./icons/apollo.svg" alt="Apollo" title="Apollo">
 <img width="26px" height="36.5px" align="left" src="./icons/ruby.svg" alt="Ruby" title="Ruby">
 <img width="46px" height="36.5px" align="left" src="./icons/rails.svg" alt="Rails" title="Rails">
+<img width="26px" height="36.5px" align="left" src="./icons/nextjs.svg" alt="Next.js" title="Next.js">
+<img width="46px" height="36.5px" align="left" src="./icons/node.svg" alt="Node.js" title="Node.js">
+<img width="46px" height="36.5px" align="left" src="./icons/mongodb.svg" alt="MongoDB" title="MongoDB">
+<img width="26px" height="36.5px" align="left" src="./icons/vuejs.svg" alt="Vue.js" title="Vue.js">
+<img width="46px" height="36.5px" align="left" src="./icons/jquery.svg" alt="jQuery" title="jQuery">
 <img width="26px" height="36.5px" align="left" src="./icons/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code">
 
 <br />
